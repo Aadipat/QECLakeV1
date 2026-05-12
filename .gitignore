@@ -1,0 +1,17 @@
+mind_strom.md
+repo_structure.txt
+.venv/
+.vscode/
+New
+qec_data_lake_server_v1/app/__pycache__/
+qec_data_lake_server_v1/app/api/v1/__pycache__
+qec_data_lake_server_v1/app/api/v1/endpoints/__pycache__
+qec_data_lake_server_v1/app/catalog/__pycache__
+qec_data_lake_server_v1/app/core/__pycache__
+qec_data_lake_server_v1/app/services/__pycache__
+qec_data_lake_server_v1/exports/demo_qec_local
+qec_data_lake_server_v1/exports/zenodo_17303036
+
+qec_data_lake_server_v1/yaml_test.yaml
+qec_data_lake_server_v1/PROJECT_FLOW_CN.md
+qec_data_lake_server_v1/app/ui/__pycache__/streamlit_app.cpython-39.pyc
